@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1435657870 source:/home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/Enemy.cc
+	<cstdio>
+	"Engine.h"
+	"Data.h"
+	"Player.h"
+	<allegro5/allegro5.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1435413701 /home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/Engine.h
+	<allegro5/allegro5.h>
+	"Data.h"
+
+1435657626 /home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/Data.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<vector>
+
+1435409963 /home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/Player.h
+	"Data.h"
+
+1435413759 source:/home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/Engine.cc
+	<allegro5/allegro5.h>
+	"Data.h"
+
+1435657645 source:/home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/GameManager.cc
+	<cstdio>
+	<ctime>
+	<sstream>
+	<assert.h>
+	"GameManager.h"
+	"Data.h"
+	"Player.h"
+	"Enemy.h"
+	"Engine.h"
+	<allegro5/allegro5.h>
+	<allegro5/allegro_image.h>
+	<fstream>
+
+1435405539 /home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/GameManager.h
+	"Data.h"
+
+1435409802 /home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/Enemy.h
+
+1435403511 source:/home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/main.cc
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"Data.h"
+	"GameManager.h"
+	"Player.h"
+	<stdio.h>
+
+1435413712 source:/home/marco/Scrivania/MarcoFontana_SpaceInvaders/src/Player.cc
+	"Player.h"
+	"Engine.h"
+	"Data.h"
+	<allegro5/allegro5.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+	<vector>
+

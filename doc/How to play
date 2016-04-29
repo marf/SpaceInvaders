@@ -1,0 +1,6 @@
+Use the arrow keys to move the player.
+Press space to fire.
+Press p to pause the game and press space if the game is over and you want to start a new game session.
+
+Use the command make record to delete your previous best record.
+Use the command make run to start the game if you have already compiled it.

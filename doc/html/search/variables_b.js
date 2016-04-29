@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['plasma_5fbarrier_5fheight',['PLASMA_BARRIER_HEIGHT',['../Data_8h.html#af0299fb0543328acfd5aa8c265c42b05',1,'Data.h']]],
+  ['plasmabarrierimage',['PlasmaBarrierImage',['../GameManager_8cc.html#a4e712c8f52ef3657e2d1852cf9f5700a',1,'GameManager.cc']]],
+  ['player_5ffire_5frate',['PLAYER_FIRE_RATE',['../Data_8h.html#ac75e9e9989c57182c673ea7c62ade723',1,'Data.h']]],
+  ['player_5fframes',['PLAYER_FRAMES',['../Data_8h.html#a48e8b2ae297b024dc9eb47f67942b31d',1,'Data.h']]],
+  ['player_5finit_5fvel',['PLAYER_INIT_VEL',['../Data_8h.html#a51bfedff258d19383039fa3312670dcc',1,'Data.h']]],
+  ['player_5flifes',['PLAYER_LIFES',['../Data_8h.html#a21b16c8c978abf2f210d67903b7e6437',1,'Data.h']]],
+  ['player_5fsize_5fh',['PLAYER_SIZE_H',['../Data_8h.html#a148d4fd320ba6b516120211486410662',1,'Data.h']]],
+  ['player_5fsize_5fw',['PLAYER_SIZE_W',['../Data_8h.html#afb7d611b61c0295edfc1f684bdbcd45f',1,'Data.h']]],
+  ['points',['points',['../structGame.html#a3d3e4d68aca0adb6422ea5799cf5ec18',1,'Game']]],
+  ['powerup',['powerup',['../structGame.html#ad6760da49cd253d2030a0c7e06bdaca4',1,'Game']]],
+  ['powerup_5feffect_5ftime',['POWERUP_EFFECT_TIME',['../Data_8h.html#ae414bc01b99642db63256d52d09d9251',1,'Data.h']]],
+  ['powerup_5fframes',['POWERUP_FRAMES',['../Data_8h.html#a57b7ffea157036000514f0212f82190e',1,'Data.h']]],
+  ['powerup_5ffrequency',['POWERUP_FREQUENCY',['../Data_8h.html#a211628332f334ebc813dba68f91c8e52',1,'Data.h']]],
+  ['powerup_5finit_5fvel',['POWERUP_INIT_VEL',['../Data_8h.html#adca26bccf27847cde765faa627e54faa',1,'Data.h']]],
+  ['powerup_5fsize_5fh',['POWERUP_SIZE_H',['../Data_8h.html#a9bd91f1ea3fdaecfaf445d24ef0fe65b',1,'Data.h']]],
+  ['powerup_5fsize_5fw',['POWERUP_SIZE_W',['../Data_8h.html#aaf467ff1e74e06204929b42cf39e96df',1,'Data.h']]],
+  ['powerup_5ftime',['POWERUP_TIME',['../Data_8h.html#ab71203168fbd0966faaa744df7ccba1e',1,'Data.h']]],
+  ['powerupeffecttimer',['PowerUpEffectTimer',['../GameManager_8cc.html#a4dd2b41f15cc45f37cd7f18c2979bf1e',1,'GameManager.cc']]],
+  ['powerupimage',['PowerUpImage',['../GameManager_8cc.html#ab941cb85aa3e125c6e2ac03cf96ab913',1,'GameManager.cc']]],
+  ['poweruptimer',['PowerUpTimer',['../GameManager_8cc.html#ad3540346727cb64ce303a99302e26a78',1,'GameManager.cc']]]
+];

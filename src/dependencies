@@ -1,0 +1,6 @@
+Enemy.o: Enemy.cc Engine.h Data.h Player.h
+Engine.o: Engine.cc Data.h
+GameManager.o: GameManager.cc GameManager.h Data.h Player.h Enemy.h \
+ Engine.h
+Player.o: Player.cc Player.h Data.h Engine.h
+main.o: main.cc Data.h GameManager.h Player.h
